@@ -1,0 +1,2 @@
+# eMAG-images
+product
